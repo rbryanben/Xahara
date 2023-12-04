@@ -1,0 +1,5 @@
+# Development 
+- Dev:
+  - libsdl2-dev
+- Runtime:
+  - libsdl2-2.0-0
